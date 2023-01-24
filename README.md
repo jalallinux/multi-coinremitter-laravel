@@ -4,7 +4,7 @@ multi-coinremitter plugin for laravel
 ## installation guide.
 you can install coin remitter plugin using composer in laraval : 
 ```
-composer require composer require jalallinux/multi-coinremitter-laravel
+composer require jalallinux/multi-coinremitter-laravel
 ```
  
 ## Usage of library : 
